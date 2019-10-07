@@ -1,0 +1,3 @@
+/home/chunran/opencv_test/test/build/CMakeFiles/rebuild_cache.dir
+/home/chunran/opencv_test/test/build/CMakeFiles/edit_cache.dir
+/home/chunran/opencv_test/test/build/CMakeFiles/main.dir
